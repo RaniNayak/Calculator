@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-08-26T23:40:32" hostname="Ranis-MacBook-Air.local" time="0.057">
+  <properties/>
+  <testcase name="Testcase for Extending Operations" classname="CalculatorTest" time="0.042"/>
+  <testcase name="Testcase for Chaining Operations" classname="CalculatorTest" time="0.002"/>
+  <testcase name="Testcase for Basic Operations" classname="CalculatorTest" time="0.006"/>
+  <system-out><![CDATA[----------------------------------------------------------------------------
+Testing in progress for Calculator
+----------------------------------------------------------------------------
+Testcase for Extending Operations
+----------------------------------------------------------------------------
+Testcase for Chaining Operations
+----------------------------------------------------------------------------
+Testcase for Basic Operations
+----------------------------------------------------------------------------
+Tearing down the test setup for Calculator.
+----------------------------------------------------------------------------
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
